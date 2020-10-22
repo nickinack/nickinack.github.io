@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am <b>Karthik Viswanathan</b>. I am an undergraduate student at IIIT-Hyderabad.
 
 ### More Information
 
