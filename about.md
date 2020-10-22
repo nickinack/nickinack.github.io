@@ -21,4 +21,4 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 
 ### Contact me
 
-[email@domain.com](mailto:karthik.viswanathan@research.iiit.ac.in)
+[Email](mailto:karthik.viswanathan@research.iiit.ac.in)
