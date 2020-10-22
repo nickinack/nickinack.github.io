@@ -20,7 +20,7 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 
 ### Experience
 
-- <b>Feb 2020 - Aug 2020</b> Research Undergrad at <a href="https://serc.iiit.ac.in/">Software Engineering Research Center, IIIT-H</a>
+- <b>Feb 2020 - Aug 2020</b> Research Undergrad at <a href="https://serc.iiit.ac.in/">Software Engineering Research Center</a>
 - <b>Jun 2020 - Aug 2020</b> Platfrom Developer at <a href="aicrowd.com">AIcrowd</a>
 - <b>Oct 2020 - Present</b> Scholar at <a href="https://odsc.com/california/">ODSC</a>
 - <b>Nov 2020</b> Incoming Research Intern at <a href="https://che.iitm.ac.in/~senai/?page_id=60">SENAI @ IIT-M</a>
