@@ -36,6 +36,14 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 - UNSW-ICAS EMEA Rank 1
 - NCO EMEA Rank 1
 
+### Projects
+
+- <b>Genesis</b>: Genesis is a library created using Python in order to implement Genetic Algorithms. Genetic Algorithms(GAs) were inspired by the Charles Darwin theory of natural selection and we have added functionalities for an abstract GA solver and used it to optimize the travelling salesman problem (TSP), approximate the minimal roots of a non-linear equation and feature selection in the field of Machine Learning.
+
+- <b>Bone 2-D</b>: Implementation of the paper, Bone Structures Extraction, and Enhancement in Chest Radiographs via CNN Trained on Synthetic Data published in March 2020 by Ophir Gozes and Hayit Greenspan. The process involves converting a 3-D X-Ray (CXR) into Digitally Reconstructed Radiographs (DRR) using Computer Vision. Previous works on this domain used FCNNs and L1 Loss for calculating the predicted DRR. This method proposes a new model: a trainable UNET and a non-trainable VGG19 network (in order to calculate perpetual loss using the conv3d outputs).
+
+- <b>HCDBMS</b>: HCDBMS is an administrator side Hotel Chain database management system made as a part of CS4.301 Data and Applications, Monsoon 2020
+
 
 ### Contact me
 
