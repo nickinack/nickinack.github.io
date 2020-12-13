@@ -16,8 +16,8 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 
 ### Education
 
-- <b>2017-2019</b>: High School Student, Asian International Private School
-- <b>2019-2024</b>: Undergraduate Student, IIIT-Hyderabad
+- <b>2017-2019</b>: High School Student, Asian International Private School. <i>97.8%</i>
+- <b>2019-2024</b>: Undergraduate Student, IIIT-Hyderabad. <i>8.8/10</i>
 
 ### Experience
 
@@ -36,6 +36,7 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 - CBSE EMEA topper
 - UNSW-ICAS EMEA Rank 1
 - NCO EMEA Rank 1
+- Sheikh Khalifa Bin Zayed Al Nahyan scholarship awardee
 
 ### Projects
 
