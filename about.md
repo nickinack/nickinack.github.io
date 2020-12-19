@@ -32,6 +32,7 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 
 ### Awards and Honors
 
+- QubitxQubit & IBM Quantum Mentorship program
 - ODSC West Scholar 2020
 - CBSE EMEA topper
 - UNSW-ICAS EMEA Rank 1
