@@ -60,3 +60,6 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 ### Contact me
 
 [Email](mailto:karthik.viswanathan@research.iiit.ac.in)
+
+<a href="https://www.freecounterstat.com" title="free web counters"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=3frpn6n8843az6je3thxda3ftg9t3w44" border="0" title="free web counters" alt="free web counters"></a>
+
