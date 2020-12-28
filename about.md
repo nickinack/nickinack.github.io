@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am <b>Karthik Viswanathan</b>. I am an undergraduate student at IIIT-Hyderabad. I am currently enrolled in the dual degree in Computer Science with a specialization in Computational Sciences. My resume can be viewed <a href="data/nickinack.pdf">here</a>.
+I am <b>Karthik Viswanathan</b>. I am an undergraduate student at IIIT-Hyderabad. I am currently enrolled in the dual degree in Computer Science with a specialization in Computational Sciences. My resume can be viewed <a href="https://github.com/nickinack/nickinack.github.io/blob/master/data/nickinack.pdf">here</a>.
 
 ### Research
 
