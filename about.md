@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am <b>Karthik Viswanathan</b>. I am an undergraduate student at IIIT-Hyderabad. I am currently enrolled in the dual degree in Computer Science with a specialization in Computational Sciences. I hope to specialize in the field of Neuroscience and Computer Vision. 
+I am <b>Karthik Viswanathan</b>. I am an undergraduate student at IIIT-Hyderabad. I am currently enrolled in the dual degree in Computer Science with a specialization in Computational Sciences. My resume can be viewed <a href="data/nickinack.pdf">here</a>.
 
 ### Research
 
@@ -26,6 +26,7 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 - <b>Jun 2020 - Aug 2020</b> Platfrom Developer at <a href="aicrowd.com">AIcrowd</a>
 - <b>Dec 2020 - Jan 2021</b> Research Intern at <a href="https://che.iitm.ac.in/~senai/?page_id=60">SENAI, IIT-M</a>
 
+
 ### Publications and Conferences
 
 - <b>Oct 2020</b> Abstract acceptance at <a href="https://neuromatch.io/">Neuromatch 3.0</a> for our abstract <i>Seeing with the Mind’s Eye: Abstract representation of Visual Stimuli from neural recordings using deep generative networks</i>
@@ -40,6 +41,8 @@ I have broad interests in Computer Vision, Machine learning and Neuroscience. My
 - Sheikh Khalifa Bin Zayed Al Nahyan scholarship awardee
 
 ### Projects
+
+- <b>Thermal Occupancy Estimation</b>: Implementation of "Low-Resolution Overhead Thermal Tripwire Configuration" for Occupancy Estimation as a part of my winter research @ IIT Madras advised by Prof. Raghunathan Rengaswamy. The delivarable of this research project includes the entry-exit count in a room and the occupancy of the room. Lingering blobs, edge cases and multiple entry-exits during the same frame have been taken care of.
 
 - <b>Genesis</b>: Genesis is a library created using Python in order to implement Genetic Algorithms. Genetic Algorithms(GAs) were inspired by the Charles Darwin theory of natural selection and we have added functionalities for an abstract GA solver and used it to optimize the travelling salesman problem (TSP), approximate the minimal roots of a non-linear equation and feature selection in the field of Machine Learning.
 
