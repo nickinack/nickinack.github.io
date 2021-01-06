@@ -10,11 +10,7 @@ I am <b>Karthik Viswanathan</b>. I am an undergraduate student at IIIT-Hyderabad
 
 ### Research
 
-I have broad interests in Computer Vision, Machine learning and Neuroscience. My research is mostly driven by the following goals:
-
-- To understand how the human brain <a href="https://academic.oup.com/cercor/article/28/12/4136/4560155https://academic.oup.com/cercor/article/28/12/4136/4560155"> encodes and decodes</a> vision and how this vision can be obtained and represented from these decodings. 
-- To generate new datasets for existing datasets in Pathology using <a href="https://developers.google.com/machine-learning/gan">Generative adversarial networks</a> using existing datasets. I am looking to segment and do a controllable generation of pathological images and use them for detecting early stage pathological diseases.
-- Unserstanding the establishment of biomolecular sequence-structure-function relations using fundamental principles of physical sciences in theoretical models and simulations of structure and dynamics.
+I have broad interests in statistical machine learning and mathematics. I have previously worked on computer vision and neuroscience. 
 
 ### Education
 
