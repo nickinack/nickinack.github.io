@@ -19,10 +19,14 @@ I have broad interests in statistical machine learning and mathematics. I have p
 
 ### Experience
 
-- <b>May 2017- March 2019</b> Teaching assistant at <a href="http://asianintlschool.com/Ruwais/Default.aspx">AIS</a>
-- <b>Feb 2020 - Aug 2020</b> Research Undergrad at <a href="https://serc.iiit.ac.in/">Software Engineering Research Center</a>
-- <b>Jun 2020 - Aug 2020</b> Platfrom Developer at <a href="aicrowd.com">AIcrowd</a>
+- <b>May 2021 - July 2021</b> <i>Incoming Visiting Undergraduate Researcher</i> at <a href="https://www.inria.fr/en">INRIA</a>
 - <b>Dec 2020 - Jan 2021</b> Research Intern at <a href="https://che.iitm.ac.in/~senai/?page_id=60">SENAI, IIT-M</a>
+- <b>Jun 2020 - Aug 2020</b> Platfrom Developer at <a href="aicrowd.com">AIcrowd</a>
+- <b>Feb 2020 - Aug 2020</b> Research Undergrad at <a href="https://serc.iiit.ac.in/">Software Engineering Research Center</a>
+- <b>May 2017- March 2019</b> Teaching assistant at <a href="http://asianintlschool.com/Ruwais/Default.aspx">AIS</a>
+
+
+
 
 
 ### Publications and Conferences
