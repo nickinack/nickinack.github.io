@@ -6,8 +6,6 @@ permalink: /about/
 
 I am <b>Karthik Viswanathan</b>. I am an undergraduate student at IIIT-Hyderabad. I am currently enrolled in the dual degree in Computer Science with a specialization in Computational Sciences.
 
-<h4> Actively looking for research internships.  My resume can be viewed <a  href="https://github.com/nickinack/nickinack.github.io/blob/master/data/nickinack.pdf" target = "_blank">here</a>. Upto two letters of recommendation can be provided upon request. </h4>
-
 ### Research
 
 I have broad interests in statistical machine learning and mathematics. I have previously worked on computer vision and neuroscience. 
