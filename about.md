@@ -23,14 +23,6 @@ I have broad interests in statistical machine learning and mathematics. I have p
 - <b>Feb 2020 - Aug 2020</b> Research Undergrad at <a href="https://serc.iiit.ac.in/">Software Engineering Research Center</a>
 - <b>May 2017- March 2019</b> Teaching assistant at <a href="http://asianintlschool.com/Ruwais/Default.aspx">AIS</a>
 
-
-
-
-
-### Publications and Conferences
-
-- <b>Oct 2020</b> Abstract acceptance at <a href="https://neuromatch.io/">Neuromatch 3.0</a> for our abstract <i>Seeing with the Mind’s Eye: Abstract representation of Visual Stimuli from neural recordings using deep generative networks</i>
-
 ### Awards and Honors
 
 - QubitxQubit & IBM Quantum Mentorship program
