@@ -13,10 +13,11 @@ I have broad interests in statistical machine learning and mathematics. I have p
 ### Education
 
 - <b>2017-2019</b>: High School Student, Asian International Private School. <i>97.8%</i>
-- <b>2019-2024</b>: Undergraduate Student, IIIT-Hyderabad. <i>8.8/10</i>
+- <b>2019-2024</b>: Undergraduate Student, IIIT-Hyderabad. <i>9.1/10</i>
 
 ### Experience
 
+- <b>May 2020 - Jun 2021</b> Teaching Assistant, Probability and Random Processes
 - <b>Dec 2020 - Jan 2021</b> Research Intern at <a href="https://che.iitm.ac.in/~senai/?page_id=60">SENAI, IIT-M</a>
 - <b>Jun 2020 - Aug 2020</b> Platfrom Developer at <a href="aicrowd.com">AIcrowd</a>
 - <b>Feb 2020 - Aug 2020</b> Research Undergrad at <a href="https://serc.iiit.ac.in/">Software Engineering Research Center</a>
@@ -24,7 +25,7 @@ I have broad interests in statistical machine learning and mathematics. I have p
 
 ### Awards and Honors
 
-- QubitxQubit & IBM Quantum Mentorship program
+- Dean's List - I
 - ODSC West Scholar 2020
 - CBSE EMEA topper
 - UNSW-ICAS EMEA Rank 1
@@ -44,7 +45,7 @@ I have broad interests in statistical machine learning and mathematics. I have p
 - <b>MLC++</b>: The MLC++ is a collection of C++ Emulators for unsupervised clustering algorithms. The algorithms coded are KNN clustering , DBSCAN clustering and PCA reduction with optimised space and time complexity. The objective of this project is to get a deeper understanding and working of each of the above mentioned algorithm. Work is in progress. The project uses file handling as a method to store data. Programs have been segmented into modular files in order to have an easier workflow.
 
 
-### Survey Papers (Links at Blog)
+### Writing Samples (Links at Blog)
 
 - <b>Chip-Seq, an enhanced RNA-Seq</b>:  The paper involved researching about Chip-Sequencing and taking further steps from Chip-Sequencing into more efficient algorithms. I also noted inferences from the Data Analysis of Chip-Seq experiments using PCA emulated graphs(e.g.: C/EBPa ChIPseq genome track at the albumin locus in mouse hepatocytes). The paper was concluded by listing out the advantages of Chip-Seq and links for further reading. 
 
