@@ -1,0 +1,256 @@
+body {
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 900; 
+    line-height: 26.4px;  
+}
+
+p { 
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 15px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+}
+
+.intro {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.center{
+    position: relative;
+    top: 37%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.dp{
+    max-width: 10%;
+    border-radius: 50%;
+}
+
+.img1{
+    text-align: center;
+}
+
+.footer{
+    display: inline-block;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 12px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 70%;
+    margin-left: 20%;
+    margin-bottom: 4%;
+    justify-content: space-between;
+}
+
+.nava {
+    padding-bottom: .25em;
+    text-decoration: none;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 10px; 
+    transition: all 0.3s ease;
+}
+
+.nava:hover {
+  text-decoration: none;
+}
+
+.nava {
+  text-decoration: none;
+  position: relative;
+}
+
+.nava:after {
+  border-radius: 2em;
+  border-top: .1em solid #2F56B0;
+  content: "";
+  position: absolute;
+    right: 100%;
+    bottom: .2em;
+    left: 0;
+}
+
+.nava:hover:after {
+  right: 0;
+}
+
+.inb:hover {
+  text-decoration: none;
+}
+
+.inb {
+    transition: all 0.3s ease;
+    text-decoration: none;
+    position: relative;
+}
+
+.inb:after {
+    content: "";
+}
+
+.inb:hover:after {
+    right: 0;
+}
+
+.nav-container {
+    width: 80%;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar {
+    text-align: center;
+    background: #fff;
+    padding: 20px 0;
+    z-index: 999;
+}
+
+.navbar .nav-container {
+    padding: 15px 0;
+    /* max-width: 90%; */
+}
+
+.navbar .left, .right {
+    display: inline-block;
+}
+
+.navbar .left {
+    width: 30%;
+    float: left;
+}
+
+.navbar .right {
+    width: 70%;
+}
+
+.navbar .right {
+    float: right;
+    text-align: right;
+}
+
+.navbar ul {
+    list-style: none;
+    display: inline-block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar ul li {
+    padding: 0 2.5%;
+    display: inline-block;
+}
+
+.navbar ul li:first-child {
+    padding-left: 0;
+}
+
+.navbar ul li:last-child {
+    padding-right: 0;
+}
+
+.navbar ul li a {
+    font-size: 1.1em;
+}
+.navbar {
+    margin: 0;
+    width: 100%;
+    background: #fff;
+    padding: 20px 0;
+    z-index: 999;
+    
+}
+
+.right {
+    float: right;
+    text-align: right;
+    width: 70%;
+}
+
+.left {
+    display: inline-block;
+    width: 30%;
+}
+
+.social {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.social a {
+    margin: 0px 10px;
+    font-size: 1.2rem;
+}
+
+h3 { 
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    font-size: 16px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 16.4px; 
+}
+
+.exp {
+    max-width: 100%;
+    margin: auto;
+    align-items: center;
+    min-height: 70vh;
+    display: flex;
+}
+
+.posts {
+    margin-top: 3%;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: calc(100% + 6em);
+}
+
+.posts article {
+    -moz-flex-grow: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-grow: 0;
+    flex-grow: 0;
+    -moz-flex-shrink: 1;
+    -webkit-flex-shrink: 1;
+    -ms-flex-shrink: 1;
+    flex-shrink: 1;
+    margin: 0 0 6em 6em;
+    position: relative;
+    width: calc(31% - 6em);
+}
+
+.expi {
+    display: block;
+    width: 100px;
+    margin: 0 auto;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
