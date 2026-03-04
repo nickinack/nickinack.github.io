@@ -1059,6 +1059,12 @@ async function main() {
     initCountUp();
     initSkillReveal();
 
+    // Re-scroll to hash after dynamic content has shifted the layout
+    if (window.location.hash) {
+      const target = document.querySelector(window.location.hash);
+      if (target) target.scrollIntoView({ behavior: 'smooth' });
+    }
+
   } catch (err) {
     console.error('Content load error:', err);
     const tag = document.getElementById('hero-tag');
