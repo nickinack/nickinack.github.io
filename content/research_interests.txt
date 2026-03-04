@@ -1,0 +1,9 @@
+# Format: ICON | TITLE | DESCRIPTION
+# Edit the lines below. Do not change the | separator.
+
+🧬 | Genomic Foundation Models | Pretraining large-scale transformers on genomic sequences; variant-aware tokenization and long-range biological understanding.
+🤖 | Large Language Models | Scaling LLMs across multiple nodes, mixture-of-experts architectures, FSDP training, and biomedical NLP.
+💊 | Drug Discovery | AI-driven de novo molecule generation, virtual screening, active learning, and Bayesian optimization pipelines.
+🔬 | Cheminformatics | Molecular representations, SMILES/SELFIES processing, RDKit workflows, and chemical property prediction.
+🏥 | AI in Healthcare | Antimicrobial resistance prediction, cancer target identification, AML protein-ligand docking, clinical AI systems.
+📊 | Stochastic & Dynamical Systems | Matrix decomposition methods, first-passage problems, UNet-based emulation of long-term stochastic dynamics.

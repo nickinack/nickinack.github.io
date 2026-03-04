@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Karthik Viswanathan</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <!-- Load fonts asynchronously — never blocks page render -->
+  <link rel="preload" as="style"
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Inter:wght@300;400;500&display=swap"
+    onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript>
+    <link rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Inter:wght@300;400;500&display=swap" />
+  </noscript>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Hello greeting (fades out on load) -->
+  <div id="hello-screen" aria-hidden="true"><span>hello</span></div>
+
+  <!-- Ink-sketch animal background -->
+  <canvas id="bg-canvas" aria-hidden="true"></canvas>
+
+  <!-- Scroll progress -->
+  <div id="scroll-progress-bar"></div>
+
+  <!-- Nav -->
+  <nav id="navbar">
+    <a href="#hero" class="nav-logo" aria-label="home">
+      <svg width="42" height="26" viewBox="-28 -16 56 32" stroke="currentColor" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <!-- left wing -->
+        <path d="M0,2 Q-13,-10 -26,2"/>
+        <!-- right wing -->
+        <path d="M0,2 Q13,-10 26,2"/>
+        <!-- body dot -->
+        <circle cx="0" cy="2" r="2.4" fill="currentColor" stroke="none"/>
+        <!-- small tail -->
+        <path d="M0,4 Q2,10 0,13 Q-2,10 0,4"/>
+      </svg>
+    </a>
+    <ul class="nav-links" id="nav-links">
+      <li><a href="#about">about</a></li>
+      <li><a href="#publications">papers</a></li>
+      <li><a href="blogs.html">blogs</a></li>
+      <li><a href="#contact">contact</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger" aria-label="menu">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <!-- Hero -->
+  <section id="hero">
+    <div class="hero-inner">
+      <p class="hero-eyebrow" id="hero-tag"></p>
+      <h1 class="hero-name" id="hero-name"></h1>
+      <p class="hero-bio" id="hero-bio"></p>
+      <div class="hero-links">
+        <a id="hero-email-btn"   href="#">say hello</a>
+        <span class="link-sep">·</span>
+        <a id="hero-github-btn"  href="#" target="_blank">github</a>
+        <span class="link-sep">·</span>
+        <a id="hero-linkedin-btn" href="#" target="_blank">linkedin</a>
+      </div>
+    </div>
+    <div class="hero-scroll-hint" aria-hidden="true">
+      <span></span>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="section">
+    <div class="container">
+      <h2 class="section-title reveal-item">About</h2>
+      <div class="about-grid">
+        <div class="about-prose" id="about-text"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Publications -->
+  <section id="publications" class="section">
+    <div class="container">
+      <h2 class="section-title reveal-item">Publications &amp; Patents</h2>
+      <ol class="pubs-list" id="pubs-list"></ol>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="section section-alt">
+    <div class="container contact-inner" id="contact-inner"></div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <p id="footer-line"></p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

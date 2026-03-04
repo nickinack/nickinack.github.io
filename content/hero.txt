@@ -1,0 +1,6 @@
+tag: ML Researcher & Genomics AI Engineer
+name: Karthik Viswanathan
+short_bio: I build AI systems at the intersection of genomics, language, and drug discovery. Currently ML Engineer at Ruya AI (Dubai), former Research Associate at M42 Healthcare. 
+email: krthkvswnthn@gmail.com
+github: https://github.com/nickinack
+linkedin: https://linkedin.com/in/karthik-viswa

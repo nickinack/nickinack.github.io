@@ -1,0 +1,104 @@
+[
+  {
+    "company": "Ruya AI",
+    "company_sub": "Antler VC Funded",
+    "location": "Dubai, UAE",
+    "role": "Machine Learning Engineer",
+    "dates": "Feb 2025 – Present",
+    "type": "full-time",
+    "bullets": [
+      "Implemented state-of-the-art variant-aware Genomic Foundation Models.",
+      "Optimized existing GFM pipelines for faster data loading and throughput.",
+      "Developed multiple demos and presentations for company product pitches.",
+      "Currently working on seamless user AI interactions in a local sandbox setting."
+    ],
+    "tech": ["Python", "C++", "Gradio", "LangGraph"]
+  },
+  {
+    "company": "M42 Healthcare",
+    "company_sub": "",
+    "location": "Abu Dhabi, UAE",
+    "role": "Research Associate",
+    "dates": "Feb 2024 – Feb 2025",
+    "type": "full-time",
+    "bullets": [
+      "Implemented mutation-aware Antimicrobial Resistance Software achieving 91% accuracy and 0.93 AUC by pretraining on Mistral and ChemBERTA-2.",
+      "Trained multi-billion parameter LLMs across multiple nodes and GPUs, surpassing SOTA benchmarks using Mixture of Experts and Transformer architectures with FSDP.",
+      "Created the largest genomics data corpus with over 1 trillion tokens using parallelized data generation and efficient dataloaders.",
+      "Evaluated 10+ large-scale foundation models across 25+ SOTA benchmarks.",
+      "Created 5+ novel genomic tokenizers leveraging variants and annotation, improving long-range task performance by over 9%."
+    ],
+    "tech": ["Python", "C++", "FSDP", "PyTorch", "Mistral", "ChemBERTA-2"]
+  },
+  {
+    "company": "Adobe Research",
+    "company_sub": "",
+    "location": "Bengaluru, India",
+    "role": "Research Intern",
+    "dates": "May 2023 – July 2023",
+    "type": "internship",
+    "bullets": [
+      "Worked on End-to-End Design De-Rendering — a first-of-its-kind problem exploring de-rendering in the domain of design images.",
+      "Built unified pipeline to layer, segment, and inpaint design components using attention visualizations from transformer models.",
+      "Processed a corpus of over 160,000 images for detailed layering and de-rendering.",
+      "Filed a US Patent based on this work."
+    ],
+    "tech": ["Python", "Flask", "PyTorch", "DDP"]
+  },
+  {
+    "company": "CCNSB, IIIT Hyderabad",
+    "company_sub": "Center for Computational Natural Sciences and Bioinformatics",
+    "location": "Hyderabad, India",
+    "role": "Undergraduate Researcher",
+    "dates": "Jun 2021 – Feb 2024",
+    "type": "research",
+    "bullets": [
+      "Advised by Prof. Chittaranjan Hens for M.S. Thesis on decomposition of large-scale matrices for first-passage problems in stochastic evolution.",
+      "Used UNets to emulate long-term dynamics in stochastic systems achieving 92% classification accuracy.",
+      "Worked with Prof. Deva Priyakumar on active learning and Bayesian optimization for de novo drug discovery pipelines — achieving over 75% benchmark time reduction."
+    ],
+    "tech": ["Python", "C++", "MatLab", "RDKit", "Scikit-Learn"]
+  },
+  {
+    "company": "IRIC — Institute for Research in Immunology and Cancer",
+    "company_sub": "Mitacs Globalink Fellow",
+    "location": "Montreal, Canada",
+    "role": "Visiting Research Student",
+    "dates": "May 2022 – July 2022",
+    "type": "internship",
+    "bullets": [
+      "Modeled protein-target interactions for AML computationally using AutoDock.",
+      "Removed natural ligands and proposed novel Deep Learning-based docking techniques.",
+      "Explored various ligand-protein docking configurations under Dr. Brian Wilhelm."
+    ],
+    "tech": ["Python", "AutoDock", "Chimera", "VMD"]
+  },
+  {
+    "company": "SENAI, IIT Madras",
+    "company_sub": "Systems Engineering of the Natural and the Artificial",
+    "location": "Chennai, India",
+    "role": "Winter Research Intern",
+    "dates": "Nov 2020 – Jan 2021",
+    "type": "internship",
+    "bullets": [
+      "Advised by Prof. Raghunathan Rengaswamy.",
+      "Implemented a paper that computationally processes thermal sensor images to estimate room occupancy.",
+      "Achieved 90% accuracy in high-activity areas and 100% in normal-activity zones."
+    ],
+    "tech": ["Python", "Computer Vision"]
+  },
+  {
+    "company": "AICrowd",
+    "company_sub": "",
+    "location": "Lausanne, Switzerland (Remote)",
+    "role": "Software Development Engineer Intern",
+    "dates": "Jun 2020 – Aug 2020",
+    "type": "internship",
+    "bullets": [
+      "Developed and tested features under the Ruby on Rails team.",
+      "Created 10+ feature-based pull requests, reviewed 1000+ lines of code, and migrated 100+ DB attributes.",
+      "Fixed async job bugs and created paper-trail versioning for record-keeping."
+    ],
+    "tech": ["Ruby on Rails", "SQL"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Tokenization to Transfer: Do Genomic Foundation Models Learn Good Representations?",
+    "authors": "Kirill Vishniakov, Karthik Viswanathan, Aleksandr Medvedev, et al.",
+    "venue": "ICLR",
+    "year": "2026",
+    "type": "conference",
+    "link": "https://openreview.net/forum?id=4UY1NHG5Ge&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)",
+    "highlight": true,
+    "note": "Co Author"
+  },
+  {
+    "title": "Streamlining Pipeline Efficiency: A Novel Model-Agnostic Technique for Accelerating Conditional Generative and Virtual Screening Pipelines",
+    "authors": "Karthik Viswanathan, Manan Goel, Siddhartha Laghuvarapu, Girish Varma, U Deva Priyakumar",
+    "venue": "Nature Scientific Reports",
+    "year": "2024",
+    "type": "journal",
+    "link": "https://www.nature.com/articles/s41598-023-42952-y",
+    "highlight": true,
+    "note": "First Author"
+  },
+  {
+    "title": "Ecological Resilience in a Circular World: Mutation and Extinction in Five-Species Ecosystems",
+    "authors": "Karthik Viswanathan, Sirshendu Bhattacharya, Chittaranjan Hens",
+    "venue": "Chaos, Solitons and Fractals",
+    "year": "2024",
+    "type": "journal",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0960077924000997",
+    "highlight": false,
+    "note": "First Author"
+  },
+  {
+    "title": "Gene42: Long-Range Genomic Foundation Model With Dense Attention",
+    "authors": "Kirill Vishniakov, Boulbaba Ben Amor, Engin Tekin, Nancy A. ElNaker, Karthik Viswanathan, Aleksandr Medvedev, Aahan Singh, Maryam Nadeem, Mohammad Amaan Sayeed, et al.",
+    "venue": "NeurIPS AI4D3 Workshop",
+    "year": "2024",
+    "type": "workshop",
+    "link": "https://neurips.cc/virtual/2025/loc/san-diego/129540",
+    "highlight": false,
+    "note": ""
+  },
+  {
+    "title": "BioToken and BioFM — Biologically-Informed Tokenization Enables Accurate and Efficient Genomic Foundation Models",
+    "authors": "Aleksandr Medvedev, Karthik Viswanathan, Praveenkumar Kanithi, Marco Pimentel, Kirill Vishniakov, Shadab Khan",
+    "venue": "Bioarxiv",
+    "year": "2024",
+    "type": "preprint",
+    "link": "https://www.biorxiv.org/content/10.1101/2025.03.27.645711v1",
+    "highlight": true,
+    "note": "Joint First Author"
+  },
+  {
+    "title": "Decomposing a Raster Image into Constituent Elements Utilizing Discrete Layering and Classification",
+    "authors": "Aishwarya Agarwal, Joseph KJ, Karthik Viswanathan, Balaji Vasan Srinivasan, Mandar Wayal, Dev Shah",
+    "venue": "US Patent P1297-US(20030.964)",
+    "year": "2023",
+    "type": "patent",
+    "link": "#",
+    "highlight": false,
+    "note": "Filed · Adobe Research"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "institution": "IIIT Hyderabad",
+    "location": "Hyderabad, India",
+    "degree": "B.Tech (Hons.) Computer Science & M.S. Computational Natural Sciences",
+    "dates": "2019 – 2024",
+    "coursework": ["Data Structures", "Operating Systems", "Distributed Systems", "Machine Learning"],
+    "activities": ["Teaching Assistant", "Graduate Researcher", "Dean's List Awardee"]
+  }
+]

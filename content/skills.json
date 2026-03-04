@@ -1,0 +1,7 @@
+{
+  "Programming Languages": ["Python", "C++", "C", "R", "MatLab", "SQL"],
+  "ML Frameworks": ["PyTorch", "TensorFlow", "Scikit-Learn", "HuggingFace", "MLOps"],
+  "Training Infrastructure": ["FSDP", "DDP", "Activation Checkpointing", "Multi-node GPU Training"],
+  "Frameworks & Tools": ["Flask", "Gradio", "LangGraph", "RDKit", "Docker", "Git", "Linux"],
+  "Research Domains": ["LLMs", "Genomic Foundation Models", "NLP", "Drug Discovery", "Cheminformatics", "Computer Vision", "AI in Healthcare", "Stochastic Systems"]
+}
