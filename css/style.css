@@ -60,7 +60,7 @@ body {
   background: transparent; /* canvas provides the bg */
   color: var(--text);
   font-family: var(--serif);
-  font-size: 1.72rem;
+  font-size: 0.9rem;
   font-weight: 600;
   line-height: 1.8;
   overflow-x: hidden;
@@ -162,7 +162,7 @@ ul, ol { list-style: none; }
 }
 
 .hero-eyebrow {
-  font-size: 1.3rem;
+  font-size: 0.65rem;
   font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -174,7 +174,7 @@ ul, ol { list-style: none; }
 
 .hero-name {
   font-family: var(--serif);
-  font-size: clamp(2.8rem, 6vw, 5.2rem);
+  font-size: clamp(1.4rem, 3vw, 2.6rem);
   font-weight: 500;
   line-height: 0.95;
   letter-spacing: -0.02em;
@@ -185,7 +185,7 @@ ul, ol { list-style: none; }
 }
 
 .hero-bio {
-  font-size: 1.75rem;
+  font-size: 0.9rem;
   font-weight: 600;
   color: var(--muted);
   line-height: 1.85;
@@ -203,7 +203,7 @@ ul, ol { list-style: none; }
   animation: fadeUp 0.9s 1s var(--ease) forwards;
 }
 .hero-links a {
-  font-size: 1.75rem;
+  font-size: 0.9rem;
   font-weight: 500;
   letter-spacing: 0.06em;
   color: var(--ink);
@@ -212,7 +212,7 @@ ul, ol { list-style: none; }
   transition: border-color 0.3s, color 0.3s;
 }
 .hero-links a:hover { color: var(--wine); border-color: var(--wine); }
-.link-sep { color: var(--faint); font-size: 1.75rem; }
+.link-sep { color: var(--faint); font-size: 0.9rem; }
 
 .hero-scroll-hint {
   position: absolute;
@@ -247,7 +247,7 @@ ul, ol { list-style: none; }
 
 .section-title {
   font-family: var(--serif);
-  font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+  font-size: clamp(1.1rem, 2.25vw, 1.7rem);
   font-weight: 600;
   letter-spacing: -0.01em;
   color: var(--ink);
@@ -291,7 +291,7 @@ ul, ol { list-style: none; }
 }
 .fact-key {
   font-family: var(--sans);
-  font-size: 1.1rem;
+  font-size: 0.6rem;
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -299,14 +299,14 @@ ul, ol { list-style: none; }
 }
 .fact-val {
   font-family: var(--serif);
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   font-weight: 600;
   color: var(--ink);
   line-height: 1.4;
 }
 
 .about-prose p {
-  font-size: 1.65rem;
+  font-size: 0.85rem;
   color: var(--text);
   line-height: 1.9;
   margin-bottom: 1.4rem;
@@ -321,13 +321,13 @@ ul, ol { list-style: none; }
 }
 .edu-inst {
   font-family: var(--serif);
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   font-weight: 700;
   color: var(--ink);
   margin-bottom: 0.3rem;
 }
 .edu-deg {
-  font-size: 1.3rem;
+  font-size: 0.65rem;
   font-weight: 600;
   color: var(--muted);
   line-height: 1.5;
@@ -374,12 +374,12 @@ ul, ol { list-style: none; }
 }
 .stat-num {
   font-family: var(--serif);
-  font-size: 2.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
   color: var(--wine);
 }
 .stat-label {
-  font-size: 1.2rem;
+  font-size: 0.6rem;
   font-weight: 600;
   color: var(--muted);
   letter-spacing: 0.04em;
@@ -406,12 +406,12 @@ ul, ol { list-style: none; }
 .r-icon { font-size: 1.3rem; }
 .r-title {
   font-family: var(--serif);
-  font-size: 1.5rem;
+  font-size: 0.75rem;
   font-weight: 700;
   color: var(--ink);
 }
 .r-desc {
-  font-size: 1.35rem;
+  font-size: 0.7rem;
   font-weight: 500;
   color: var(--muted);
   line-height: 1.75;
@@ -449,7 +449,7 @@ ul, ol { list-style: none; }
 
 .pub-title {
   font-family: var(--serif);
-  font-size: 1.55rem;
+  font-size: 0.8rem;
   font-weight: 700;
   color: var(--ink);
   line-height: 1.4;
@@ -462,7 +462,7 @@ ul, ol { list-style: none; }
 }
 
 .pub-authors {
-  font-size: 1.3rem;
+  font-size: 0.65rem;
   font-weight: 500;
   color: var(--muted);
   margin-bottom: 0.35rem;
@@ -478,14 +478,14 @@ ul, ol { list-style: none; }
   margin-top: 0.4rem;
 }
 .pub-venue {
-  font-size: 1.25rem;
+  font-size: 0.65rem;
   color: var(--gold);
   font-style: italic;
   font-family: var(--serif);
 }
 .pub-badge {
   font-family: var(--sans);
-  font-size: 1rem;
+  font-size: 0.55rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   padding: 0.1rem 0.45rem;
@@ -499,12 +499,12 @@ ul, ol { list-style: none; }
 .pub-badge.is-preprint   { color: var(--gold); border-color: rgba(168,114,40,0.35); }
 .pub-badge.is-patent     { color: #5c5c5c; border-color: rgba(92,92,92,0.35); }
 .pub-note {
-  font-size: 1.2rem;
+  font-size: 0.6rem;
   color: var(--violet);
   font-style: italic;
 }
 .pub-link {
-  font-size: 1.2rem;
+  font-size: 0.6rem;
   color: var(--wine);
   letter-spacing: 0.06em;
   border-bottom: 1px solid rgba(114,28,40,0.3);
@@ -683,7 +683,7 @@ ul, ol { list-style: none; }
   margin-bottom: 1.5rem;
 }
 .contact-blurb {
-  font-size: 1.6rem;
+  font-size: 0.8rem;
   font-weight: 600;
   color: var(--muted);
   line-height: 1.85;
@@ -704,14 +704,14 @@ ul, ol { list-style: none; }
 .contact-row:first-of-type { border-top: 1px solid var(--rule); }
 .c-label {
   font-family: var(--sans);
-  font-size: 1.1rem;
+  font-size: 0.6rem;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--faint);
 }
 .c-value {
-  font-size: 1.6rem;
+  font-size: 0.8rem;
   font-weight: 600;
   color: var(--wine);
   transition: opacity 0.3s;
@@ -729,7 +729,7 @@ ul, ol { list-style: none; }
   background: transparent;
 }
 #footer-line {
-  font-size: 0.78rem;
+  font-size: 1.17rem;
   color: var(--faint);
   letter-spacing: 0.04em;
 }
